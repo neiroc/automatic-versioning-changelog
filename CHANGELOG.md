@@ -1,3 +1,10 @@
+# 1.0.0 (2024-11-04)
+
+
+### Features
+
+* add sementic release ([9fba292](https://github.com/neiroc/automatic-versioning-changelog/commit/9fba2921502094545a4b6fe3fd2255f9a2007e49))
+
 ## [1.5.1](https://github.com/emarchel/automatic-versioning-changelog/compare/v1.5.0...v1.5.1) (2024-10-14)
 
 
